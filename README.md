@@ -4,13 +4,28 @@ Flutter assignment
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a UI-focused application having differnet transitions.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔹 Splash Screen  
+![image](https://github.com/user-attachments/assets/ef240e11-25ff-4105-86c9-a0109bf5160f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### 🔹 Onborading
+![image](https://github.com/user-attachments/assets/9e33a567-a629-4789-b747-eca50724151b)
+
+### 🔹 Home Screen  
+![image](https://github.com/user-attachments/assets/e911e674-69c1-4fda-aebd-53cfd0b1dd98)
+
+
+### 🔹 Rewarding Screen
+![image](https://github.com/user-attachments/assets/6c9f235c-1107-4e48-8fb1-445a5c1cbe24)
+
+
+### 🔹 ReadNews Screen
+![image](https://github.com/user-attachments/assets/87828151-1048-4b9f-a67c-b09a87595ac9)
+
+
+### 🔹 Task Screen
+![image](https://github.com/user-attachments/assets/d8cfdac7-c620-4cf2-93f8-ec61f6cd4a72)
