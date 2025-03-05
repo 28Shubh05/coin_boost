@@ -1,0 +1,1 @@
+ D:\\Flutter\\coin_boost\\.dart_tool\\flutter_build\\5a11d460f3a18480a5583208cb0b6901\\native_assets.yaml: 
